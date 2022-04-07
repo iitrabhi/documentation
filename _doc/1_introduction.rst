@@ -18,7 +18,11 @@ To follow along with the examples, you need to install below packages into your 
 
 *Note: If have installed updated versions of below packages, please ignore the following steps.*
 
-* `Anaconda <https://www.anaconda.com/>`_
+* `Anaconda <https://www.anaconda.com/>`_, A python distributor
+* `GitHub <https://desktop.github.com/>`_, A code management tool between local remote repositories.
+* `Sublime <https://www.sublimetext.com/>`_, A code editing tool.
+* `Mark Text <https://marktext.app/>`_, A markdown editor.
+
 
 Anaconda Installation
 ---------------------
@@ -50,7 +54,23 @@ Sphinx offers flexibility in changing the webpage format.  **read_docs**  is the
 
     pip install sphinx_rtd_theme
 
-So far, we installed all the required modules that necessary to develop documentation. Please refer to _doc/README.md for documentation process using Sphinx.
+GitHub
+-------
+
+After downloading the GitHub desktop into your system, install it with default options and link your GitHub account to it. If you don not have GitHub account, create one on `GitHub <https://github.com/>`_ Publishing the online version of documentation is possible only through version control systems like GitHub. Please acquire basic working knowledge of git. 
+
+Sublime
+--------
+
+Sublime is one of the  light weight text/code editors. Install it with default options.
+
+Mark Text
+----------
+
+Mark down is a text formatting language, which is being widely in online articles. Mark Text is a mark down editor. This renders the text beautifully according to corresponding markdown format while typing it. Install it with default options.
+
+
+So far, we installed all the required modules that necessary to develop documentation. Please refer to ``_doc/README.md`` directory for the documentation process using Sphinx.
 
 Authors
 =======

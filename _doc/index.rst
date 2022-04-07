@@ -16,6 +16,7 @@ This documentation is organized into a couple sections:
    :caption: Introduction:
 
    1_introduction
+   4_documenting
    2_contact
    
 .. _install:

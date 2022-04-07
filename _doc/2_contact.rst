@@ -5,3 +5,8 @@ We are the people of `computational mechanics lab <https://computationalmechanic
 
 If you want to contact us and contribute to the team, please reach out through `CMLab <https://computationalmechanics.in/future-member/>`_
 
+Authors
+=======
+
+* `Abhinav Gupta <abhigupta.io>`_
+* `Bhagath Mamindlapelly <https://github.com/bhagath555>`_

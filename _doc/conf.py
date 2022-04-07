@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath('../_src'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python_bhagath'
-copyright = '2022, Bhagath'
-author = 'Bhagath'
+project = 'PyProDoc'
+copyright = '2022, CMLab-Roorkee'
+author = 'CMLab-Roorkee'
 
 # The full version, including alpha/beta/rc tags
 release = '007'

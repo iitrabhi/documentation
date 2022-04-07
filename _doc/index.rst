@@ -1,12 +1,12 @@
-Project_name Documentation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PyProDoc: Python Project Documentation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Write Project description here.
+This project is intnded to explain the documentation process of python projects.
 
 This documentation is organized into a couple sections:
 
-* :ref:`intro`
-* :ref:`install`
+* :ref:`intro` - Containing the introduction, prerequisites, and documentation process. 
+* :ref:`install` 
 * :ref:`modules`
 
 .. _intro:

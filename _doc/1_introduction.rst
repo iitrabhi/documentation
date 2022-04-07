@@ -70,5 +70,5 @@ Mark Text
 Mark down is a text formatting language, which is being widely in online articles. Mark Text is a mark down editor. This renders the text beautifully according to corresponding markdown format while typing it. Install it with default options.
 
 
-So far, we installed all the required modules that necessary to develop documentation. Please refer to ``_doc/README.md`` directory for the documentation process using Sphinx.
+So far, we installed all the required modules that necessary to develop documentation. Please refer to ``Sphinx Documentation`` section.
 

@@ -1,7 +1,7 @@
 Sphinx Documentation
 ^^^^^^^^^^^^^^^^^^^^
 
-This directory will contain the documentation for the package. This will be automatically generated from python files through Sphinx documentation tool.
+This directory contains the documentation for the package. This will be automatically generated from python files through Sphinx documentation tool.
 
 
 What is Sphinx?

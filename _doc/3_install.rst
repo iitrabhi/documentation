@@ -1,7 +1,9 @@
 Installation
 ^^^^^^^^^^^^^
 
-This page has various installation methods.
+This page has various installation methods. 
+
+*Note: It is under developing*
 
 PIP
 ===

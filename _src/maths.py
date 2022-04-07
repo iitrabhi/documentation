@@ -18,11 +18,6 @@ class basic_1:
         """
         This function returns the sum of two numbers.
 
-        :param num1: First number
-        :type num1: float
-        :param num2: Second number
-        :type num2: float
-
         :return: sum of num1 and num2
         :rtype: float
         """        
@@ -32,11 +27,6 @@ class basic_1:
         """
         This function returns the subtraction of one number from another.
 
-        :param num1: First number
-        :type num1: float
-        :param num2: Second number
-        :type num2: float
-
         :returns: subtraction of num2 from num1
         :rtype: float
         """
@@ -45,8 +35,7 @@ class basic_1:
 class basic_2:
     """
     This class containing the grade 2 mathematical operations.
-    
-    This document is an awesome tool to explain the stuff
+
 
     :param num1: First number
     :type num1: float
@@ -56,8 +45,9 @@ class basic_2:
     .. code-block:: python
 
         import maths as m
-        nums = m.grade_2(6,2)
-        div = nums.divide()
+        nums = m.basic_2(6,2)
+        div = nums.division()
+        mult = nums.multiply()
     
     """
     def __init__(self,num1,num2):
@@ -81,7 +71,7 @@ class basic_2:
 
         """
         return self.num1*self.num2
-    def divide(self):
+    def division(self):
         """
         This function returns the division of two numbers.
 

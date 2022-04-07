@@ -1,13 +1,7 @@
 PyProDoc: Python Project Documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This project is intnded to explain the documentation process of python projects.
-
-This documentation is organized into a couple sections:
-
-* :ref:`intro` - Containing the introduction, prerequisites, and documentation process. 
-* :ref:`install` 
-* :ref:`modules`
+This project is intnded to explain the documentation process of python projects. Go through the :ref:`intro` section if you are new to Sphinx. It is containing the detailed information about prerequisites and documentation process. Section :ref:`modules` still in the development and :ref:`modules` is the documentation generated through the python scripts available in `documentation <https://github.com/iitrabhi/documentation>`_ repository. 
 
 .. _intro:
 

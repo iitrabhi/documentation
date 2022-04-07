@@ -14,36 +14,20 @@ It is generally uses for textual data in the python documentation. It has it own
 
 It is important to follow correct syntax, indentation, and space between the commands in rst files and docstrings. There are few .rst files in this directory so please feel free to have a glance at the syntax. After making the web documentation out of this files, you will understand how to use them for your own projects.
 
-## Sphinx installation:
-
-If Sphinx haven't installed in your system, follow this commands to install it and its supporting modules.
-
-#### Installation in windows:
-
-Open command prompt as administrator and use below command to install sphinx in your machine.
-
-```
- pip install -U sphinx
-```
-
- `sphinx-build --version` Use this command to check sphinx version.
-
-Sphinx offers flexibility in changing the webpage format.  *read_docs*  is the most popular theme. In order to install it use this command  `pip install sphinx_rtd_theme`.
-
-So far, we installed all the required modules that necessary to develop documentation.
-
 ## Documentation:
 
-* Since the current projects has already dedicated this folder(_doc) for the documentation, open this directory in file explorer and open command prompt. 
+* Since the current projects has already dedicated this folder(_doc) for the documentation, open command prompt and change working directory to _doc folder. 
 
 * `sphinx-quickstart` use this command to start the documentation.
 
-  * Procced with default options and provide information such as 
+  * Provide relevant information when asked. For the remaining details continue with default options by pressing `Enter` button.
     * project name
     * author name
     * release version
 
-*  It will create few file and folder in this directory. 
+* It is observed that `Linux` user have more details to add. Apart from above mentions options, procced with the default options for all the information.
+
+*  Successful execution of the commands creates few file and folder in `_doc` directory. 
 
 * Now, we have to modify `conf.py` file according to the our project file structure. 
 

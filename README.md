@@ -10,17 +10,18 @@ Before starting, look a few open source projects documentation that generated us
 * [SimPy](https://simpy.readthedocs.io/en/latest/)
 * [Conda](https://conda.io/en/latest/)
 
- ## Getting Started
+ ## Getting Started & Prerequisites
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
-
-To follow along with the examples, you need to install below packages into your system. 
+To follow along with the examples, you need to download and install below packages into your system. 
 
 *Note: If have installed updated versions of below packages, please ignore the following steps.*
 
-* [Anaconda](https://www.anaconda.com/)
+* [Anaconda](https://www.anaconda.com/), A python distributor.
+* [GitHub](https://desktop.github.com/), A code management tool between local remote repositories.
+* [Sublime](https://www.sublimetext.com/), A code editing tool.
+* [Mark Text](https://marktext.app/), A markdown editor.
 
 #### Anaconda Installation
 
@@ -49,7 +50,21 @@ Sphinx offers flexibility in changing the webpage format.  *read_docs*  is the m
 
 So far, we installed all the required modules that necessary to develop documentation. Please refer to _doc/README.md for documentation process using Sphinx.
 
-## Notes
+#### GitHub
+
+After downloading the GitHub desktop into your system, install it with default options and link your GitHub account to it. If you don not have GitHub account, create one on [GitHub](https://github.com/) Publishing the online version of documentation is possible only through version control systems like GitHub. Please acquire basic working knowledge of git. 
+
+#### Sublime
+
+Sublime is one of the  light weight text/code editors. Install it with default options.
+
+#### Mark Text
+
+Mark down is a text formatting language, which is being widely in online articles. Mark Text is a mark down editor. This renders the text beautifully according to corresponding markdown format while typing it. Install it with default options.
+
+## Note:
+
+After installing all the prerequisite tools, visit `_doc/README.md` for project documentation instructions. 
 
 ## Folder Structure
 

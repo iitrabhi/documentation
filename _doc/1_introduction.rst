@@ -18,7 +18,7 @@ To follow along with the examples, you need to install below packages into your 
 
 *Note: If have installed updated versions of below packages, please ignore the following steps.*
 
-* [Anaconda](https://www.anaconda.com/)
+* `Anaconda <https://www.anaconda.com/>`_
 
 Anaconda Installation
 ---------------------
@@ -35,15 +35,20 @@ Sphinx Installation
 
 Open command prompt as administrator and use below command to install sphinx in your machine.
 
-`pip install -U sphinx`
+.. code-block:: console
+
+    pip install -U sphinx
+
 
 **Note:** *If you are not able to execute above command through command prompt, open anaconda prompt as administrator to execute the commands.*
 
-`sphinx-build --version` Use this command to check sphinx version.
+``sphinx-build --version`` Use this command to check sphinx version.
 
-Sphinx offers flexibility in changing the webpage format.  *read_docs*  is the most popular theme. In order to install it use this command  
+Sphinx offers flexibility in changing the webpage format.  **read_docs**  is the most popular theme. In order to install it use this command  
 
-`pip install sphinx_rtd_theme`
+.. code-block:: console
+
+    pip install sphinx_rtd_theme
 
 So far, we installed all the required modules that necessary to develop documentation. Please refer to _doc/README.md for documentation process using Sphinx.
 
